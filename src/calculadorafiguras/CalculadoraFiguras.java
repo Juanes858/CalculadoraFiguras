@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Justin
+ * @author Juan Esteban Acosta
  */
 public class CalculadoraFiguras {
 

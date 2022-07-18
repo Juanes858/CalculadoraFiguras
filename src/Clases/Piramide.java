@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Justin
+ * @author Juan Esteban Acosta
  */
 public class Piramide extends Figura {
     private double base;

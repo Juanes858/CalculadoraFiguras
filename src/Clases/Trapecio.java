@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Justin
+ * @author Juan Esteban Acosta
  */
 public class Trapecio extends Figura{
     private double baseMayor;

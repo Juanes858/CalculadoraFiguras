@@ -7,7 +7,7 @@ package Clases;
 
 /**
  *
- * @author Justin
+ * @author Juan Esteban Acosta
  */
 public abstract class Figura {
     

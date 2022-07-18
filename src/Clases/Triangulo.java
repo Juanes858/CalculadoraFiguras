@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Justin
+ * @author Juan Esteban Acosta
  */
 public class Triangulo extends Figura{
     private double lados;
